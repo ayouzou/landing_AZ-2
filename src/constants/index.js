@@ -57,7 +57,7 @@ export const feedback = [
     content:
       "Money makes your life easier. If you're lucky to have it, you're lucky.",
     name: "MOHAMMED BERMIME",
-    title: "softwore developer",
+    title: "software developer",
     img: 'https://media.licdn.com/dms/image/D4E03AQGLo6bi3ZEhwA/profile-displayphoto-shrink_200_200/0/1694796325797?e=1709164800&v=beta&t=bypBRdcpX9BbjZyjMtMjNYIWAcmRp-5m6ZRG4Am8f4Q',
   },
   {
@@ -65,7 +65,7 @@ export const feedback = [
     content:
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "SOULAIMANE",
-    title: "softwore developer",
+    title: "software developer",
     img: 'https://media.licdn.com/dms/image/D4E03AQG8cNf5WoomFQ/profile-displayphoto-shrink_200_200/0/1699383498400?e=1709164800&v=beta&t=9LQr1wA7G1RIWViQN6EpQp-1HvtTSk8xbipWuwMmRl0',
   },
 ];
